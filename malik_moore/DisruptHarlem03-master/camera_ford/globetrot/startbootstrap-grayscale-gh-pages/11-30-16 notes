@@ -1,0 +1,75 @@
+11-30-16
+
+Home
+DONE 3.-Hard to see "Get lost...on your own terms"
+
+About
+12. -photo background 1/2 of container: figure out how to put the img div before "::before"
+DONE 13. -change photo
+14. change join button color on hover
+
+Features
+DONE 2. -Hard to see content: try gray shadow behind text (like hba)
+	-changed sizing of  icons + feature + general page headings 
+	-changed color of feature titles
+DONE 1. -Hard to see li separation: alternate sentence text color/use <p>
+DONE 2.5. white on beige = hard to see; change the color (pink bg)
+DONE 5. -Map Not Shown: get seperate key? 
+DONE 5.5. map marker not working
+
+Team
+DONE 7. add photo 
+7.5. fix photo alignment
+
+Join
+DONE 4.-start Trotting is faint when not hovered: add gray bckgrd behind
+DONE 6.-Sign up form: pop up on click
+
+footer: 
+10. change footer color? 
+
+nav:
+11. change to gray instead of black on scroll?
+
+other: 
+DONE 8. logo in canva
+9. add logo to tab?
+15. make everything smaller again?
+
+
+12/5:
+About
+DONE 1. change join button on hover color
+DONE 2. make sure page layout is responsive
+3. change photo?
+
+Features
+4. change text color (darken shadow and/or text color)
+DONE 4.5 change text size
+5. change map marker
+6. put API transit stops map ?
+7. change map background to white
+
+
+Team
+8. correct image sizing
+DONE 9. make sure page layout is responsive
+
+
+Join
+10. change sign up button "close" to top right corner x bubble?
+
+
+Contact:
+11. add transparent background to contact section -- new div, no col + width = 100%(for full page width)
+
+
+Footer:
+
+
+Other:
+12. make everything smaller again
+13. add logo to tab?
+
+
+

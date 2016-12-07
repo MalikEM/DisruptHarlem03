@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>tfdyghj</title>
+	<style>
+	#map {
+        width: 100%;
+        height: 400px;
+        background-color: grey;
+      }
+      </style>
+</head>
+<body>
+	<div id="map"></div>
+
+<!--	From API site, didn't work
+<script type="text/javascript">
+        function initMap() {
+            var NYC = {lat: 40.730, lng: -73.935};
+            var map = new google.maps.Map(document.getElementByID('map'), {
+                zoom: 3,
+                center: NYC
+            });
+        }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD-_S3q-G69bB1k6VmIXdHj5qFz3uoeE7g&callback=initMap">
+    </script> -->
+
+
+<script>
+function myMap() {
+  var mapCanvas = document.getElementById("map");
+  var nyc = new google.maps.LatLng(40.807, -73.945)
+  var mapOptions = {
+    center: nyc , 
+    zoom: 15
+    }
+
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+  addMarker(nyc)
+
+  function addMarker(location) {
+  var marker = google.maps.Marker({
+  	position: location,
+  	map: map
+	})
+}
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD-_S3q-G69bB1k6VmIXdHj5qFz3uoeE7g&callback=myMap"></script>
+</body>
+</html>
