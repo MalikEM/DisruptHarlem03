@@ -37,14 +37,18 @@ DONE 8. logo in canva
 15. make everything smaller again?
 
 
-12/5:
+12/5-12/12:
+Intro:
+DONE 15. changed photo
+
 About
 DONE 1. change join button on hover color
 DONE 2. make sure page layout is responsive
-3. change photo?
+DONE 3. change photo?
+DONE 17. changed text 
 
 Features
-4. change text color (darken shadow and/or text color)
+DONE 4. change text color (darken shadow and/or text color)
 DONE 4.5 change text size
 5. change map marker
 6. put API transit stops map ?
@@ -52,24 +56,25 @@ DONE 4.5 change text size
 
 
 Team
-8. correct image sizing
+DONE 8. correct image sizing
 DONE 9. make sure page layout is responsive
 
 
 Join
-10. change sign up button "close" to top right corner x bubble?
-
+DONE 10. change sign up button "close" to top right corner x bubble?
+DONE 10.5 make submit button better
+DONE 14. change signup box to fixed?
 
 Contact:
 11. add transparent background to contact section -- new div, no col + width = 100%(for full page width)
 
 
 Footer:
-
+DONE 16. distinguish footer (bg img? diff color?)
 
 Other:
 12. make everything smaller again
-13. add logo to tab?
+DONE 13. add logo to tab 
 
 
 
